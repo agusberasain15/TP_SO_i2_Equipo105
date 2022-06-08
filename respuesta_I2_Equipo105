@@ -12,4 +12,65 @@ C)
 
 D)
 
-E)
+E) Comandos necesarios para resolver este TP:
+
+Berasain Agustin:
+
+$ git clone https://github.com/agusberasain15/TP_SO_i2_Equipo105.git
+
+$ git add -A
+
+$ $ git commit -m "primer commmit"
+
+$ git push -u origin main
+
+$ git remote add upstream https://github.com/JZubini/TP_SO_i2_Equipo105.git
+
+$ git fetch upstream
+
+$ git rebase upstream/main
+
+$ git add -A
+
+$ git commit -m "Respuesta E"
+
+$ git push -u origin main
+
+
+Zubini Mainardi Julian Ignacio:
+
+$ git clone https://github.com/JZubini/TP_SO_i2_Equipo105.git
+
+$ git add -A
+
+$ git commit -m ""
+
+$ git push -u origin main
+
+
+Aquino Agustin:
+
+$ git clone https://github.com/Agus2020/TP_SO_i2_Equipo105.git
+
+$ git add -A
+
+$ $ git commit -m "primer commmit"
+
+$ git push -u origin main
+
+$ git remote add upstream https://github.com/JZubini/TP_SO_i2_Equipo105.git
+
+$ git fetch upstream
+
+$ git rebase upstream/main
+
+$ git add -A
+
+$ git commit -m "Respuesta A y B"
+
+$ git push -u origin main
+
+
+
+
+
